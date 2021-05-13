@@ -23,7 +23,7 @@ Deployed to Heroku: https://on-the-growl.herokuapp.com/login
 If you have any questions about this project, please reach out to any of the contributors via Github!
 
 ## Credits
-Corrinne Warden https://github.com/CorrinneW
+Corrinne Worden https://github.com/CorrinneW
 <br/>
 Michael O'Connor https://github.com/oconnor97
 <br/>
